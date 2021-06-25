@@ -11,7 +11,7 @@
  - biscoito maisena
  - leite para molhar os biscoitos
  - raspas de chocolate 
- - manteiga sem sal ou margarina, só para dar o ponto
+ - manteiga sem sal ou margarina, para dar o ponto
 
 ## Modo de preparo
 
